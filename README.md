@@ -1,3 +1,4 @@
+![prototype ](https://github.com/user-attachments/assets/8b8df2ef-041b-4df9-8807-9f5525a73166)
 # Smart Drishti – AI-Powered Assistive Glasses for the Visually Impaired
 
 This capstone project is a wearable assistive system designed to help visually impaired individuals navigate their environment using real-time object detection, text recognition, and voice feedback.
